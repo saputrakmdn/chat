@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "450217506409",
+    "firebase_url": "https://one2onechatapps-8b73b.firebaseio.com",
+    "project_id": "one2onechatapps-8b73b",
+    "storage_bucket": "one2onechatapps-8b73b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450217506409:android:e7a656b27f447762",
+        "android_client_info": {
+          "package_name": "latihan.android.com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450217506409-0oe2hp69uh1k5nucb16lr5g8ec16nkbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "latihan.android.com.chat",
+            "certificate_hash": "c5751bd011696860e93f13c977d7bb3d507d1011"
+          }
+        },
+        {
+          "client_id": "450217506409-hm89jg3930tjascrq56ibhit3n06l2al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3Z_LS3aE2wpeY8tYZGP4m8SvNSOUqvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450217506409-hm89jg3930tjascrq56ibhit3n06l2al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
